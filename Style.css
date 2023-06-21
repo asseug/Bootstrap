@@ -1,0 +1,27 @@
+h1{
+   display: flex;
+   justify-content: center;
+   color:orange 
+ }
+
+
+ .carousel-item img{
+   height: 200;
+   width: 100px;
+}
+
+.bnt{
+   display:flex;
+   justify-content:center;
+   color:gray
+   font-size: 40px;
+}
+
+.navegação a {
+    display: flex;
+    justify-content: center;
+    Color : green;
+    font-size: 40px;
+ }
+    
+
